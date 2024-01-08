@@ -28,4 +28,4 @@ permalink: /schedule/
 |      | 3/07/24 | Power Optimizations                 | HW #5                               |                   |
 | 10   | 3/12/24 | Advanced Topic I                    |                                     |                   |
 |      | 3/14/24 | Advanced Topic II                   |                                     |                   |
-|      | 3/19/24 | Final Exam                          | Exam                                |                   |
+| *    | 3/19/24 | Final Exam                          | Exam                                |                   |
