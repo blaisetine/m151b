@@ -4,6 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+**Topics we plan cover (may be adjusted due to schedule)**
+
 - Computer Model, Abstractions, and Technologies
 - Metrics and Objectives in Designing a Computer
 - Instruction Set Architecture Design
