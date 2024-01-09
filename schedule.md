@@ -25,7 +25,7 @@ permalink: /schedule/
 | 8    | 2/27/24 | Cache Optimization                  |                                     | Chapter 5         |
 |      | 3/29/24 | Main Memory                         | HW #4                               | Chapter 5         |
 | 9    | 3/05/24 | Memory I/O                          |                                     | Chapter 5         |
-|      | 3/07/24 | Power Optimizations                 | HW #5                               |                   |
+|      | 3/07/24 | Power Management                    | HW #5                               |                   |
 | 10   | 3/12/24 | Advanced Topic I                    |                                     |                   |
 |      | 3/14/24 | Advanced Topic II                   |                                     |                   |
 | *    | 3/19/24 | Final Exam                          | Exam                                |                   |
