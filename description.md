@@ -10,7 +10,7 @@
 
 **TA's office hours:** will be posted at Piazza 
 
-**Piazza:** [https://piazza.com/ucla/winter2024/csm151b](https://piazza.com/ucla/winter2024/csm151b)
+**Campuswire:** [https://campuswire.com/c/G259DFD21](https://campuswire.com/c/G259DFD21)
 
 ## Description
 
